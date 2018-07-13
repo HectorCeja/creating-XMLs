@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+   <Vehiculo>
+      <Nombre>RAV4</Nombre>
+      <Marca>TOYOTA</Marca>
+      <Modelo>WSDE34</Modelo>
+      <Anio>2017</Anio>
+      <Recomendaciones>
+         <Comentario>
+            <Usuario>112212</Usuario>
+            <Descripcion>Es un muy buen carro</Descripcion>
+         </Comentario>
+         <Comentario>
+            <Usuario>12332432</Usuario>
+            <Descripcion>Tiene buena calidad</Descripcion>
+         </Comentario>
+      </Recomendaciones>
+   </Vehiculo>
+   <Vehiculo>
+      <Nombre>CIVIC</Nombre>
+      <Marca>TOYOTA</Marca>
+      <Modelo>ASDE3ADS4</Modelo>
+      <Anio>2019</Anio>
+      <Recomendaciones>
+         <Comentario>
+            <Usuario>112212</Usuario>
+            <Descripcion>Es un muy buen carro</Descripcion>
+         </Comentario>
+         <Comentario>
+            <Usuario>12332432</Usuario>
+            <Descripcion>Tiene buena calidad</Descripcion>
+         </Comentario>
+      </Recomendaciones>
+   </Vehiculo>
+   <Vehiculo>
+      <Nombre>RAV4</Nombre>
+      <Marca>TOYOTA</Marca>
+      <Modelo>WSDE34</Modelo>
+      <Anio>2017</Anio>
+      <Recomendaciones>
+         <Comentario>
+            <Usuario>112212</Usuario>
+            <Descripcion>Es un muy buen carro</Descripcion>
+         </Comentario>
+         <Comentario>
+            <Usuario>12332432</Usuario>
+            <Descripcion>Tiene buena calidad</Descripcion>
+         </Comentario>
+      </Recomendaciones>
+   </Vehiculo>
+   <Vehiculo>
+      <Nombre>RAV4</Nombre>
+      <Marca>TOYOTA</Marca>
+      <Modelo>WSDE34</Modelo>
+      <Anio>2017</Anio>
+      <Recomendaciones>
+         <Comentario>
+            <Usuario>112212</Usuario>
+            <Descripcion>Es un muy buen carro</Descripcion>
+         </Comentario>
+         <Comentario>
+            <Usuario>12332432</Usuario>
+            <Descripcion>Tiene buena calidad</Descripcion>
+         </Comentario>
+      </Recomendaciones>
+   </Vehiculo>
+   <Vehiculo>
+      <Nombre>RAV4</Nombre>
+      <Marca>TOYOTA</Marca>
+      <Modelo>WSDE34</Modelo>
+      <Anio>2017</Anio>
+      <Recomendaciones>
+         <Comentario>
+            <Usuario>112212</Usuario>
+            <Descripcion>Es un muy buen carro</Descripcion>
+         </Comentario>
+         <Comentario>
+            <Usuario>12332432</Usuario>
+            <Descripcion>Tiene buena calidad</Descripcion>
+         </Comentario>
+      </Recomendaciones>
+   </Vehiculo>
+</xml>
+
